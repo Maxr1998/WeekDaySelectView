@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeekDaySelectView">
+        <attr name="numDays" format="integer" />
+        <attr name="numWeeks" format="integer" />
+        <attr name="selectionColor" format="color" />
+    </declare-styleable>
+</resources>
